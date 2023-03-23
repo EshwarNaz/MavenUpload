@@ -6,7 +6,7 @@
 	<artifactId>07_SpringJdbc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<maven.compiler.source>1</maven.compiler.source>
+		<maven.compiler.source>1.11</maven.compiler.source>
 		<maven.compiler.target>1.11</maven.compiler.target>
 	</properties>
 	<dependencies>
